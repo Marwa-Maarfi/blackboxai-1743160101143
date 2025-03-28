@@ -1,0 +1,8 @@
+Flask==3.0.0
+pandas==2.1.0
+numpy==1.23.5
+plotly==5.15.0
+matplotlib==3.7.2
+openai==0.28.0
+python-dotenv==1.0.0
+gunicorn==20.1.0
